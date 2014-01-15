@@ -1,0 +1,14 @@
+{
+  "name": "email-build",
+  "version": "0.1.0",
+  "author": "Dustin Walker",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-sass": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-premailer": "~0.2.3",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-imagemin": "~0.5.0",
+    "grunt-nodemailer": "~0.2.0"
+  }
+}

@@ -1,0 +1,9 @@
+# osx noise
+.DS_Store
+profile
+
+# sass noise
+_build/.sass-cache/*
+
+# local config files
+_build/config/nodemailer-transport.json
