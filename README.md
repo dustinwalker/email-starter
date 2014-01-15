@@ -1,7 +1,7 @@
 Email Starter
 =============
 
-My starting point for generating an email newsletter. Users Gruntjs to build files and include inline CSS from external stylesheet.
+My starting point for generating an email newsletter. Uses Grunt to build files and include inline CSS from external stylesheet.
 
 ### Install
 Run following in _build directory to install dependencies:
